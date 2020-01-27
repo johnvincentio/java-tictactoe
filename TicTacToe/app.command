@@ -8,6 +8,6 @@ DEV_HOME=/Users/jv/Desktop/MyDevelopment/github/java/Games/java-tictactoe/TicTac
 #
 MYCP=$DEV_HOME
 #
-java -cp $MYCP io.johnvincent.tictactoe.Appgui
+java -cp $MYCP io.johnvincent.tictactoe.TicTacToe
 #
 echo "end"
